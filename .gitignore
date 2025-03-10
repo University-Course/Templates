@@ -1,5 +1,15 @@
 # Directories
 Content/StarterContent/
+Content/FirstPerson/
+Content/FirstPersonArms/
+Content/FPWeapon/
+Content/Characters/
+Content/ThirdPerson/
+Content/LevelPrototyping/
+Content/__ExternalActors__/FirstPerson/
+Content/__ExternalObjects__/FirstPerson/
+Content/__ExternalActors__/ThirdPerson/
+Content/__ExternalObjects__/ThirdPerson/
 
 # Visual Studio 2015 user specific files
 .vs/
